@@ -1,4 +1,4 @@
-# Frontend Mini Projects 🚀
+# Frontend Mini Projects 
 
 This repository contains **beginner-friendly frontend projects** built using **HTML & CSS**.  
 These projects were created to practice UI design, layout, and basic user interaction.
@@ -20,6 +20,7 @@ A clean and simple **To-Do List user interface**.
 #### 🔹 Technologies Used
 - HTML5
 - CSS3
+- JS
 - Font Awesome Icons
 
 #### 🔹 Purpose
