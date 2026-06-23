@@ -1,4 +1,4 @@
-# Frontend Mini Projects 🚀
+# Frontend Mini Projects 
 
 This repository contains beginner-friendly frontend projects built while learning web development through hands-on practice.
 
@@ -8,11 +8,11 @@ These projects focus on improving my understanding of HTML, CSS, and JavaScript 
 
 ## 📁 Projects Included
 
-### 1️⃣ To-Do List App
+### 1️. To-Do List App
 
 A simple task management application built using HTML, CSS, and JavaScript.
 
-#### 🔹 Features
+#### Features
 
 - Add new tasks dynamically
 - Delete tasks instantly
@@ -35,11 +35,11 @@ A simple task management application built using HTML, CSS, and JavaScript.
 
 ---
 
-### 2️⃣ Sidebar Menu UI
+### 2️. Sidebar Menu UI
 
 A responsive sidebar navigation menu built using HTML and CSS.
 
-#### 🔹 Features
+#### Features
 
 - Sidebar toggle using checkbox hack
 - Smooth open/close animation
@@ -47,14 +47,14 @@ A responsive sidebar navigation menu built using HTML and CSS.
 - Social media icons section
 - Responsive design
 
-#### 🔹 Technologies Used
+#### Technologies Used
 
 - HTML5
 - CSS3
 - Font Awesome
 - Google Fonts
 
-#### 🔹 Purpose
+#### Purpose
 
 - Learn CSS positioning
 - Practice transitions and hover effects
@@ -62,24 +62,24 @@ A responsive sidebar navigation menu built using HTML and CSS.
 
 ---
 
-### 3️⃣ Activity Generator
+### 3️. Activity Generator
 
 A small project that generates random activities and helps users discover new things to do.
 
-#### 🔹 Features
+#### Features
 
 - Random activity generation
 - Simple and clean interface
 - Interactive user experience
 
-#### 🔹 Technologies Used
+#### Technologies Used
 
 - HTML5
 - CSS
 - JavaScript
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Structuring HTML effectively
 - Styling modern interfaces with CSS
@@ -95,13 +95,13 @@ A small project that generates random activities and helps users discover new th
 I'm an IT undergraduate student passionate about technology and continuous learning.
 
 Currently exploring:
-##EVERYTHINGG..
+-EVERYTHINGG..
 
 This repository reflects my learning journey and progress as I build projects and improve my development skills.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add more JavaScript projects
 - Improve responsiveness and accessibility
