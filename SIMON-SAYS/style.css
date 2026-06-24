@@ -147,3 +147,39 @@ h1{
     opacity:0.4;
     transform:scale(0.95);
 }
+
+.game-over {
+    animation: gameOverFlash 0.4s;
+}
+
+@keyframes gameOverFlash {
+    0% {
+        background-color: #181818;
+    }
+
+    50% {
+        background-color: red;
+    }
+
+    100% {
+        background-color: #181818;
+    }
+}
+
+.shake {
+    animation: shake 0.4s;
+}
+
+@keyframes shake {
+    0%,100% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-10px);
+    }
+
+    75% {
+        transform: translateX(10px);
+    }
+}
