@@ -116,18 +116,6 @@ A browser-based memory game inspired by the classic Simon electronic game.
 * Work with timers using `setTimeout()` and `setInterval()`
 * Build an interactive frontend project
 
-
-## 🌱 About Me
-
-I'm an IT undergraduate student passionate about technology and continuous learning.
-
-Currently exploring:
--EVERYTHINGG..
-
-This repository reflects my learning journey and progress as I build projects and improve my development skills.
-
----
-
 ## Future Improvements
 
 - Add more JavaScript projects
@@ -164,6 +152,18 @@ A modern and responsive **Calculator** built using **HTML, CSS, and JavaScript**
 * Build an interactive JavaScript application
 * Improve UI design and responsive layouts
 
+
+
+## 🌱 About Me
+
+I'm an IT undergraduate student passionate about technology and continuous learning.
+
+Currently exploring:
+-EVERYTHINGG..
+
+This repository reflects my learning journey and progress as I build projects and improve my development skills.
+
+---
 
 ## 📫 Connect With Me
 
